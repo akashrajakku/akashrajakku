@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**akashrajakku/akashrajakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🧑‍🎓 ABOUT ME 
 
 - 🔭 I’m currently working on my problem solving skills using DSA
 - 🌱 I’m currently learning learning DSA and also making projects on Python like the GOOGLE_TRANSLATOR,VOICE ASSISTANT 
