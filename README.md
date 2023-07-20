@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKASH RAJ</h1>
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrajakku&label=Profile%20views&color=0e75b6&style=flat" alt="akashrajakku" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashrajakku" alt="akashrajakku" /></a> </p>
-
 - 🔭 I’m currently working on [Translator_Pro](https://github.com/akashrajakku/Google_Translator/blob/main/Translator.py)
 
 - 🌱 I’m currently learning **Tailwind,Javascript**
