@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑‍🎓 ABOUT ME 
+👨🏻‍💻  ABOUT ME 
 
 - 🔭 I’m currently working on my problem solving skills using DSA
 - 🌱 I’m currently learning learning DSA and also making projects on Python like the GOOGLE_TRANSLATOR,VOICE ASSISTANT 
