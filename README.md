@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm AKASH RAJ</h1>
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
-- 🔭 I’m currently working on [Translator_Pro](https://github.com/akashrajakku/Google_Translator/blob/main/Translator.py)
+- 🔭 I’m currently working on [BMI_Calculator](https://github.com/akashrajakku/Google_Translator/blob/main/Translator.py)
 
-- 🌱 I’m currently learning **Tailwind,Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **amazing python and WEB-DEV project**
+- 👯 I’m looking to collaborate on **amazing frontend project**
 
-- 🤝 I’m looking for help with **Open-Source related guidance**
+- 🤝 I’m looking for help with **Open-Source related guidance using javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashrajakku](https://github.com/akashrajakku)
 
 - 📝 I regularly write articles on [https://hashnode.com/@akashrajakku](https://hashnode.com/@akashrajakku)
 
-- 💬 Ask me about **HTML, CSS, Python, DSA**
+- 💬 Ask me about **HTML, CSS, Javascript, C++, Python, DSA**
 
 - 📫 How to reach me **akashrajakku263@gmail.com**
 
