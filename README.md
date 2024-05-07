@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ### CURRENTLY WORKING ON
-  - [UrbanMarket (an e-commerce platform)](https://github.com/akashrajakku/FrontENd-Projects-ReactJS-/tree/main/UrbanMarket)
+  - [RIPPLE (a blogging platform)](https://github.com/akashrajakku/FrontENd-Projects-ReactJS-/tree/main/Ripple)
 
     In QUEUE:
-     - [RIPPLE (a blogging platform)](https://github.com/akashrajakku/FrontENd-Projects-ReactJS-/tree/main/Ripple)
-     - [E-commerce_UI (UI design of an e-commerce)](https://github.com/akashrajakku/E-Commerce_UI)
+        - [E-commerce_UI (UI design of an e-commerce)](https://github.com/akashrajakku/E-Commerce_UI)
+   
+    Recently Completed:
+        - [UrbanMarket (an e-commerce platform)](https://github.com/akashrajakku/FrontENd-Projects-ReactJS-/tree/main/UrbanMarket)
 
 - 👯 Looking to contribute and collaborate on **frontend projects** 
 
