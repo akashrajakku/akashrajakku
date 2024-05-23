@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm AKASH RAJ</h1>
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
- ### CURRENTLY WORKING ON
+ ### CURRENTLY BUILDING
   - [RIPPLE (a blogging platform)](https://github.com/akashrajakku/Ripple)
-
-    In QUEUE:
-        - [E-commerce_UI (UI design of an e-commerce)](https://github.com/akashrajakku/E-Commerce_UI)
    
     Recently Completed:
         - [UrbanMarket (an e-commerce platform)](https://github.com/akashrajakku/UrbanMarket)
+### CURRENTLY LEARNING
+  - [SQL (Structured Query Language)](https://github.com/akashrajakku/sql)
+   
 
 - 👯 Looking to contribute and collaborate on **frontend projects** 
 
