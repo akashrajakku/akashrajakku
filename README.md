@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm AKASH RAJ</h1>
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
- ### CURRENTLY BUILDING
+ ## CURRENTLY BUILDING
   - [RIPPLE (a blogging platform)](https://github.com/akashrajakku/Ripple)
    
     Recently Completed:
         - [UrbanMarket (an e-commerce platform)](https://github.com/akashrajakku/UrbanMarket)
-### CURRENTLY LEARNING
+## CURRENTLY LEARNING
   - [SQL (Structured Query Language)](https://github.com/akashrajakku/sql)
    
 
-- 👯 Looking to contribute and collaborate on **frontend projects** 
+👯 Looking to contribute and collaborate on **frontend projects** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/akashrajakku](https://github.com/akashrajakku?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/akashrajakku](https://github.com/akashrajakku?tab=repositories)
 
-- 📝 I write articles on [https://hashnode.com/@akashrajakku](https://hashnode.com/@akashrajakku)
+ 📝 I write articles on [https://hashnode.com/@akashrajakku](https://hashnode.com/@akashrajakku)
 
-- MAIL: **akashrajakku263@gmail.com**
+MAIL: **akashrajakku263@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
