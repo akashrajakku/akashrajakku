@@ -2,12 +2,10 @@
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ## CURRENTLY BUILDING
-  - [RIPPLE (a blogging platform)](https://github.com/akashrajakku/Ripple)
-   
-    Recently Completed:
-        - [UrbanMarket (an e-commerce platform)](https://github.com/akashrajakku/UrbanMarket)
+  -  [Course-selling-site ("Course Selling Website Backend with Express and MongoDB")]([https://github.com/akashrajakku/UrbanMarket](https://github.com/akashrajakku/Course-Selling-Site))
+
 ## CURRENTLY LEARNING
-  - [SQL (Structured Query Language)](https://github.com/akashrajakku/sql)
+  - React and some backend stuff
    
 
 👯 Looking to contribute and collaborate on **frontend projects** 
