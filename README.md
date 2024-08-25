@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ## CURRENTLY BUILDING
-  -  [Course-selling-site ("Course Selling Website Backend with Express and MongoDB")](https://github.com/akashrajakku/Course-Selling-Site)
+  -  [FlexiPay (A digital payment platform)](https://github.com/akashrajakku/FlexiPay)
 
 ## CURRENTLY LEARNING
   - React and some backend stuff
