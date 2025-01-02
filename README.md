@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ## CURRENTLY BUILDING
-  -  [FlexiPay (A digital payment platform)](https://github.com/akashrajakku/FlexiPay)
+  -  [QueryOptimizer (Optimize your db queries)](https://github.com/akashrajakku/Query_Optimizer)
 
 ## CURRENTLY LEARNING
   - React and some backend stuff
