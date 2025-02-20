@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ## CURRENTLY BUILDING
-  -  [QueryOptimizer (Optimize your db queries)](https://github.com/akashrajakku/Query_Optimizer)
+  -  [FlexiPay (Pay smoothly to your friends)](https://github.com/akashrajakku/FlexiPay)
 
 ## CURRENTLY LEARNING
   - React and some backend stuff
