@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm AKASH RAJ</h1>
-<h3 align="center">A passionate Open-Source Contributor from India</h3>
 
  ## CURRENTLY BUILDING
-  -  [FlexiPay (Pay smoothly to your friends)](https://github.com/akashrajakku/FlexiPay)
-
-## CURRENTLY LEARNING
-  - React and some backend stuff
-   
-
-👯 Looking to contribute and collaborate on **frontend projects** 
+  -  [CloudTrip](https://github.com/akashrajakku/CloudTrip)
+    
 
 👨‍💻 All of my projects are available at [https://github.com/akashrajakku](https://github.com/akashrajakku?tab=repositories)
 
